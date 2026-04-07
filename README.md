@@ -162,5 +162,3 @@ This package is intentionally designed so a faculty member can deploy it quickly
 - 25% code quality and reproducibility
 - 25% technical interpretation of results
 - 25% capstone performance and memo
-
-</> Markdown
